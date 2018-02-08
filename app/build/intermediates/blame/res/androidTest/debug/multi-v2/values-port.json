@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Google Drive\\Dimas Sheldon\\ITHB\\Semester 6\\Android Projects\\Compressed\\SimpleCalcUnitTest\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sheldon\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\13e9a59891d8337adb3bccec42a2f3bd\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "229",
+                        "endColumns": "55",
+                        "endOffsets": "280"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
